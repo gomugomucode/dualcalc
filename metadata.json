@@ -1,0 +1,5 @@
+{
+  "name": "React Android-Style Calculator",
+  "description": "A web-based calculator with simple and scientific modes, designed with a clean, Android-inspired UI using React and Tailwind CSS. It features a full range of mathematical operations, from basic arithmetic to trigonometric and logarithmic functions.",
+  "requestFramePermissions": []
+}
